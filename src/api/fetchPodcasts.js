@@ -22,4 +22,4 @@ export async function fetchPodcasts(setPodcasts, setError, setLoading) {
     } finally {
         setLoading(false);      
     }
-}   
+}
